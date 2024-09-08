@@ -1,0 +1,27 @@
+.greenOuter {
+  background-color : green;
+  width: 500px;
+  height: 500px;
+  border: 2px solid white;
+  position:absolute;
+}
+
+.whitemid {
+  background-color : white;
+  width: 300px;
+  height: 300px;
+  border: 2px dashed orange;
+  top: 100px;
+  left: 100px;
+  position: relative;
+}
+
+.orangelast {
+  background-color : orange;
+  width: 100px;
+  height: 100px;
+  border: 2px dotted white;
+  top:100px;
+  left:100px;
+  position: absolute;
+}
